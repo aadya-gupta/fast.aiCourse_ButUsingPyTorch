@@ -7,4 +7,6 @@ The only reason I am using PyTorch instead of fastai itself is simply because my
 Link to the course - https://course.fast.ai/
 
 ;b
+
+
 -aadya
