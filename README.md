@@ -4,5 +4,7 @@ The primary goal of making this repo is to have all my learnings and experiments
 
 The only reason I am using PyTorch instead of fastai itself is simply because my aim right now is to learn that specific framework while also learning to build cool stuff.
 
+Link to the course - https://course.fast.ai/
+
 ;b
 -aadya
